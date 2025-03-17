@@ -1,4 +1,4 @@
-# Aula 06: Listas
+# AULA 06: LISTAS
 Nesse bloco iremos fazer listas, tanto ordenadas, quanto não ordenada, para lista não  ordenada tenos diferetes formas já para listas ordenadas temos uma única forma padrão do Markdown
 
 ## Exemplo de lista não ordenada
