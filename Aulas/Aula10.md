@@ -1,5 +1,5 @@
 # AULA 10: IMAGENS EXTERNAS
-Neste bloco aprendemos a linkar imagens externas no Markdown e para isso a sintaxe é basicamente a mesma que a de um link, a única mudança é que antes coloca-se uma interrogação e entre os colchetes se insere um texto alt. A sintaxe é essa `![]()`.
+Neste bloco aprendemos a linkar imagens externas no Markdown e para isso a sintaxe é basicamente a mesma que a de um link, a única mudança é que antes coloca-se uma interrogação e entre os colchetes se insere um texto alt. A sintaxe é essa `![alt da imagem](url da imagem "título da imagem(opcional)")`.
 
 ## Exemplos 
  | Imagem
