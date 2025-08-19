@@ -17,16 +17,16 @@ Markdown é uma linguagem de marcação leve usada para formatar texto de maneir
 [Curso do Rike Morais](https://www.youtube.com/playlist?list=PLRUgKsLP4I0WoP01bhm9uyqoLFwMCA1oc)
 
 ## Conclusões
-Após ter visto todos os materiais em video e ler a documentação do Markdown Guide, pude concluir que foi de extrema importância para melhorar as documentações em meus projetos do no GitHub e em qualquer outros lugar.
+Após ter realizado o estudo de todos os materiais em video e escrito, foi possível visualizar que foi de extrema importância aprofunda-me em Markdown para melhorar as documentações de projetos no GitHub e em qualquer outro ambiente que seja possível utilizar
 
 ### Dicas:
-- Se você gosta de ler, só a documentação já é o suficiente.
-- Se você gosta de ver vídeos, também é o suficiente, mas é bom olhar a documentação uma dicas de boas práticas que podem ser omitidas pelos material em vídeo. Ademais, material em vídeo é excelente, cada aula tem um tempo máximo de 4 minutos.
-- Pratique oque você aprendeu para fixar.
+- Para pessoas que curte leitura, só a documentação já é o suficiente.
+- Para pessoas que curte o formato em vídeo, somente os vídeos também é o suficiente, mas é bom olhar a documentação, pois contém dicas de boas práticas que podem ser omitidas no material em vídeo. Ademais, o material em vídeo é excelente, cada aula tem um tempo médio de 4 minutos.
+- Praticar, é necessário praticar, para fixar todo o conhecimento obtido.
 
 ### Ferramentas utilizadas
 
-- VSCODE: para escrever os códigos Markdown e visualizar em tempo real.
+- VSCODE: para escrever em Markdown e visualizar em tempo real.
 
 - Youtube: para acompanhar material em vídeo.
 
